@@ -52,3 +52,4 @@ npm run dev
 Existe una guia interna con lista de errores intencionales en docs/GUIA_DOCENTE_ERRORES.md.
 No compartir ese archivo con los alumnos.
 "# TP10DAI_WOLFUS_VALLEJOS" 
+"# TP10DAI_WOLFUS_VALLEJOS" 
