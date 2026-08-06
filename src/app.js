@@ -17,7 +17,7 @@ app.use(express.json());
 // BUG: el path estaba mal escrito ("/api/loginn" con doble n).
 app.use("/api/auth", authRoutes);
 app.use("/api/users", userRoutes);
-app.use("/api/users", adminRoutes);
+app.use("/api/admin", adminRoutes);
 
 app.get("/", (req, res) => {
   res.status(200).json({
